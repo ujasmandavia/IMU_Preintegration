@@ -10,7 +10,7 @@ cd IMU_Preintegration \
 mkdir build \
 cd build \
 cmake .. \
-make -j4 \
+make -j4
 
 Don't forget to change the path to your dataset
 

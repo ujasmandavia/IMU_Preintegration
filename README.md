@@ -7,13 +7,13 @@ To run this library:
 
 git clone https://github.com/ujasmandavia/IMU_Preintegration.git \
 cd IMU_Preintegration \
-mkdir build
-cd build
-cmake .. 
-make -j4
+mkdir build \
+cd build \
+cmake .. \
+make -j4 \
 
 Don't forget to change the path to your dataset
 
-This dataset is available online too.
+This dataset is available online too \
 https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
 

@@ -5,7 +5,7 @@ Forster C, Carlone L, Dellaert F, et al. On-Manifold Preintegration for Real-Tim
 
 To run this library:
 
-git clone https://github.com/ujasmandavia/IMU_Preintegration.git. 
+git clone https://github.com/ujasmandavia/IMU_Preintegration.git \ 
 cd IMU_Preintegration. 
 mkdir build. 
 cd build. 
